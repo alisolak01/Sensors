@@ -1,0 +1,9 @@
+units mm
+
+//Layer_Name Colour Elevation Thickness
+// Via_layer = BOTTOM_LAYER_3
+
+
+BOTTOM_LAYER blue -0.765 0.035
+TOP_LAYER red 0.765 0.035
+VIA green -0.765 1.53
